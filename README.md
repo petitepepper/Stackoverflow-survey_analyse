@@ -23,23 +23,25 @@ Here is 1 notebook which shows work related to the above question. The notebook 
 
 
 ## Result
-1. Main factors in choosing a career
+### 1. Main factors in choosing a career
 ![Q1_jobs](https://user-images.githubusercontent.com/59653182/120085928-a34cf580-c0dc-11eb-875d-398415b1a007.png)
-As it can be seen, language and structure, work schedules and career development opportunities are the most important factors for most developers.
 
-2. basic fact about data scientists and their preferred programming language 
-![Q2_basic facts](https://user-images.githubusercontent.com/59653182/120086028-574e8080-c0dd-11eb-97e2-757012bb9eac.png)
+As it can be seen, _language and structure_, _work schedules_ and _career development opportunities_ are the most important factors for most developers.
+
+### 2. basic fact about data scientists and their preferred programming language 
+**Basic facts:**
 - *About undergrand major*: The vast majority of data scientists come from the field of computer science. The other three relatively common undergraduate backgrounds are, in order, engineering discipline, mathematics or statistics, and natural science
 
 - *About education level* : People with master's degrees and bachelor's degrees make up the majority of the population.
 
 - *About the company that data scientists work at* : Overall, large companies and mid-sized companies seem to have relatively greater demand.
 
-![Q2 DS language](https://user-images.githubusercontent.com/59653182/120086034-5f0e2500-c0dd-11eb-8af1-6ea13a5b20cc.png)
+**Programming language**
 The most commonly used languages are python, C, Java and SQL in order of preference
 
-3. frequency of overtime work in different jobs
+### 3. frequency of overtime work in different jobs
 ![Q3_overwork](https://user-images.githubusercontent.com/59653182/120086038-66353300-c0dd-11eb-8dc7-b6d01b9a129f.png)
+
 Frequent overtime is always more common, no matter in what profession. We also note that practitioners in the management (managers, senior executives) and sales categories are most likely to experience frequent overtime work.
 
 
