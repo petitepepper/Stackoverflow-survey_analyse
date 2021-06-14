@@ -23,6 +23,8 @@ Here is 1 notebook which shows work related to the above question. The notebook 
 
 
 ## Result
+For detailed analysis of the data results, please check the [blog](https://wenjingleaf.medium.com/2020-developers-their-job-f8dbf276122e)
+
 ### 1. Main factors in choosing a career
 ![Q1_jobs](https://user-images.githubusercontent.com/59653182/120085928-a34cf580-c0dc-11eb-875d-398415b1a007.png)
 
